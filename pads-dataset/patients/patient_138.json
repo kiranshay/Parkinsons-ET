@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "138",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Mild cervical dystonia",
+  "age_at_diagnosis": 55,
+  "age": 55,
+  "height": 169,
+  "weight": 70,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

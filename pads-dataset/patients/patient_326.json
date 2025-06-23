@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "326",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Maybe normal-pressure-hydrocephalus. DD starting IPS",
+  "age_at_diagnosis": 55,
+  "age": 63,
+  "height": 190,
+  "weight": 100,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "334",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Segmental orofacial dystonia with blepharospasm, THS",
+  "age_at_diagnosis": 68,
+  "age": 77,
+  "height": 160,
+  "weight": 72,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

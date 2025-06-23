@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "304",
+  "study_id": "PADS",
+  "condition": "Atypical Parkinsonism",
+  "disease_comment": "Multiple System Atrophy of Parkinson type",
+  "age_at_diagnosis": 62,
+  "age": 64,
+  "height": 172,
+  "weight": 90,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

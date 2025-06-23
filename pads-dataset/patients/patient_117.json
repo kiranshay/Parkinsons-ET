@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "117",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Hypokinetic-rigid syndrome, vascular Parkinson syndrome",
+  "age_at_diagnosis": 0,
+  "age": 82,
+  "height": 172,
+  "weight": 76,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

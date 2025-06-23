@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "271",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "IPS mixed type, Periodic movement of legs while asleep",
+  "age_at_diagnosis": 69,
+  "age": 74,
+  "height": 200,
+  "weight": 100,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "290",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "IPS akinetic-rigid type, THS",
+  "age_at_diagnosis": 54,
+  "age": 75,
+  "height": 173,
+  "weight": 60,
+  "gender": "female",
+  "handedness": "left",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

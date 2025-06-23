@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "098",
+  "study_id": "PADS",
+  "condition": "Multiple Sclerosis",
+  "disease_comment": "Multiple Sclerosis of relapsing type",
+  "age_at_diagnosis": 0,
+  "age": 59,
+  "height": 192,
+  "weight": 115,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

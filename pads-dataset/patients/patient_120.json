@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "120",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "Vascular L-Dopa-responsives. hypokinetic rigid parkinsonism",
+  "age_at_diagnosis": 0,
+  "age": 67,
+  "height": 175,
+  "weight": 75,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

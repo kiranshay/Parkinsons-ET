@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "462",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Cerebellar ataxia",
+  "age_at_diagnosis": 0,
+  "age": 58,
+  "height": 160,
+  "weight": 75,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

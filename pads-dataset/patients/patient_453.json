@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "453",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "-",
+  "age_at_diagnosis": 0,
+  "age": 48,
+  "height": 164,
+  "weight": 59,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

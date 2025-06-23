@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "003",
+  "study_id": "PADS",
+  "condition": "Healthy",
+  "disease_comment": "-",
+  "age_at_diagnosis": 45,
+  "age": 45,
+  "height": 170,
+  "weight": 78,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

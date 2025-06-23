@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "136",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "Hypokinetic-rigid Type, left-sided, DD, atypical Parkinsonism",
+  "age_at_diagnosis": 62,
+  "age": 63,
+  "height": 170,
+  "weight": 100,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

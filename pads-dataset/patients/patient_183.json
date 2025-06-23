@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "183",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Torticollis to the left with dystonic tremor",
+  "age_at_diagnosis": 39,
+  "age": 54,
+  "height": 173,
+  "weight": 61,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Improvement"
+}

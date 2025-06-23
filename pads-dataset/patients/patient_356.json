@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "356",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "PSP-RS had an anamnestic diagnosis of IPS mixed type",
+  "age_at_diagnosis": 73,
+  "age": 76,
+  "height": 176,
+  "weight": 106,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

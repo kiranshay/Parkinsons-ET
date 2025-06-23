@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "049",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "IPS hypokinetic-rigid type, THS",
+  "age_at_diagnosis": 38,
+  "age": 61,
+  "height": 182,
+  "weight": 81,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

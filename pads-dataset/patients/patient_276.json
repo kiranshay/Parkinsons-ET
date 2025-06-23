@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "276",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "ET DD functional tremor right arm and mild tremor of the head",
+  "age_at_diagnosis": 14,
+  "age": 42,
+  "height": 178,
+  "weight": 62,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

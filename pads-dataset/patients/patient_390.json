@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "390",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "-",
+  "age_at_diagnosis": 43,
+  "age": 63,
+  "height": 165,
+  "weight": 120,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

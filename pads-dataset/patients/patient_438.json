@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "438",
+  "study_id": "PADS",
+  "condition": "Multiple Sclerosis",
+  "disease_comment": "MS type Bali, THS due to severe intention tremor, moderate left hemiparesis",
+  "age_at_diagnosis": 30,
+  "age": 43,
+  "height": 173,
+  "weight": 85,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "Improvement"
+}

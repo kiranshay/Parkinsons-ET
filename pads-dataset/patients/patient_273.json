@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "273",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Dystonia of unknown etiology",
+  "age_at_diagnosis": 48,
+  "age": 51,
+  "height": 179,
+  "weight": 93,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

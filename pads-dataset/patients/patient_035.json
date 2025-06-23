@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "035",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Cervical dystonia with Torticollis with tremor. Essential Tremor",
+  "age_at_diagnosis": 50,
+  "age": 72,
+  "height": 168,
+  "weight": 104,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "Improvement"
+}

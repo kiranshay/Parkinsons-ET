@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "238",
+  "study_id": "PADS",
+  "condition": "Atypical Parkinsonism",
+  "disease_comment": "PSP with predominant speech disorder",
+  "age_at_diagnosis": 54,
+  "age": 61,
+  "height": 165,
+  "weight": 110,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

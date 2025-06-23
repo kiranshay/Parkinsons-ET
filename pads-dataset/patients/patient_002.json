@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "002",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Left-Sided resting tremor and hypokinesia without presynaptic striatal deficit",
+  "age_at_diagnosis": 69,
+  "age": 81,
+  "height": 193,
+  "weight": 104,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

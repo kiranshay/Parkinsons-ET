@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "291",
+  "study_id": "PADS",
+  "condition": "Atypical Parkinsonism",
+  "disease_comment": "Possible MSA-C",
+  "age_at_diagnosis": 65,
+  "age": 66,
+  "height": 175,
+  "weight": 86,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

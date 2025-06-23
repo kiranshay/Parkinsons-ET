@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "360",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "Movement disorder of unclear etiology",
+  "age_at_diagnosis": 43,
+  "age": 49,
+  "height": 182,
+  "weight": 93,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Improvement"
+}

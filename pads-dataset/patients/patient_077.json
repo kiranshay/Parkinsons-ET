@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "077",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Dystonial tremor of the head. Anamnestic also generalized tremor/dystonia",
+  "age_at_diagnosis": 37,
+  "age": 41,
+  "height": 170,
+  "weight": 60,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

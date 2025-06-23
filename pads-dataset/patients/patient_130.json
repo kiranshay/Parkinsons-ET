@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "130",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Asymmetric tremor of the hands of unknown etiology",
+  "age_at_diagnosis": 58,
+  "age": 59,
+  "height": 170,
+  "weight": 60,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

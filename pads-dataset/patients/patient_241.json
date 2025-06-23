@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "241",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Atypical Parkinsonism, DD, spinocerebellar ataxia",
+  "age_at_diagnosis": 75,
+  "age": 82,
+  "height": 178,
+  "weight": 78,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "341",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "IPS hypokinetic-rigid type. Test of Duodopapump",
+  "age_at_diagnosis": 61,
+  "age": 76,
+  "height": 152,
+  "weight": 53,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

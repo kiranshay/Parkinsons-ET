@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "020",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "Starting MSA-P",
+  "age_at_diagnosis": 69,
+  "age": 71,
+  "height": 176,
+  "weight": 79,
+  "gender": "male",
+  "handedness": "left",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

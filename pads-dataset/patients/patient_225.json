@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "225",
+  "study_id": "PADS",
+  "condition": "Multiple Sclerosis",
+  "disease_comment": "Multiple Sclerosis",
+  "age_at_diagnosis": 62,
+  "age": 67,
+  "height": 174,
+  "weight": 89,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

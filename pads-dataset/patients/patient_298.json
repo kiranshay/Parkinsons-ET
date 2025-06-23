@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "298",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "IPS of tremordominant type, DD, SWEDD syndrome",
+  "age_at_diagnosis": 58,
+  "age": 67,
+  "height": 169,
+  "weight": 131,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "Improvement"
+}

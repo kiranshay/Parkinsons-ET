@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "115",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "Essential Tremor",
+  "age_at_diagnosis": 56,
+  "age": 57,
+  "height": 183,
+  "weight": 86,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "Improvement"
+}

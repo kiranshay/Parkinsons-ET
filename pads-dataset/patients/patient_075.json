@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "075",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Idiopathic generalized dystonia, THS",
+  "age_at_diagnosis": 36,
+  "age": 66,
+  "height": 170,
+  "weight": 80,
+  "gender": "female",
+  "handedness": "left",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

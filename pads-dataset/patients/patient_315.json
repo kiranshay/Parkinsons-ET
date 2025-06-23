@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "315",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Cervical dystonia, THS",
+  "age_at_diagnosis": 47,
+  "age": 56,
+  "height": 173,
+  "weight": 68,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

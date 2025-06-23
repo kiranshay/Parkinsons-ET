@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "361",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "IPS, no treatment yet",
+  "age_at_diagnosis": 53,
+  "age": 55,
+  "height": 164,
+  "weight": 58,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

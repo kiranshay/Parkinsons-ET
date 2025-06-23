@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "037",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Coronary heart disease",
+  "age_at_diagnosis": 0,
+  "age": 70,
+  "height": 171,
+  "weight": 78,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": false,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

@@ -1,0 +1,563 @@
+{
+  "resource_type": "observation",
+  "subject_id": "234",
+  "study_id": "PADS",
+  "device_id": "Apple Watch Series 4",
+  "id": "Neurological Assessment",
+  "endianness": "little",
+  "sampling_rate": 100,
+  "data_type": "float",
+  "bits": 32,
+  "session": [
+    {
+      "record_name": "Relaxed",
+      "rows": 2048,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_Relaxed_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_Relaxed_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "RelaxedTask",
+      "rows": 2048,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_RelaxedTask_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_RelaxedTask_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "StretchHold",
+      "rows": 1024,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_StretchHold_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_StretchHold_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "LiftHold",
+      "rows": 1024,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_LiftHold_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_LiftHold_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "HoldWeight",
+      "rows": 1024,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_HoldWeight_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_HoldWeight_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "PointFinger",
+      "rows": 1024,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_PointFinger_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_PointFinger_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "DrinkGlas",
+      "rows": 1024,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_DrinkGlas_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_DrinkGlas_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "CrossArms",
+      "rows": 1024,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_CrossArms_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_CrossArms_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "TouchIndex",
+      "rows": 1024,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_TouchIndex_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_TouchIndex_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "TouchNose",
+      "rows": 1024,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_TouchNose_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_TouchNose_RightWrist.txt"
+        }
+      ]
+    },
+    {
+      "record_name": "Entrainment",
+      "rows": 2048,
+      "records": [
+        {
+          "device_location": "LeftWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_Entrainment_LeftWrist.txt"
+        },
+        {
+          "device_location": "RightWrist",
+          "channels": [
+            "Time",
+            "Accelerometer_X",
+            "Accelerometer_Y",
+            "Accelerometer_Z",
+            "Gyroscope_X",
+            "Gyroscope_Y",
+            "Gyroscope_Z"
+          ],
+          "units": [
+            "s",
+            "g",
+            "g",
+            "g",
+            "rad/s",
+            "rad/s",
+            "rad/s"
+          ],
+          "file_name": "timeseries/234_Entrainment_RightWrist.txt"
+        }
+      ]
+    }
+  ]
+}

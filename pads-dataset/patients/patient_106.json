@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "106",
+  "study_id": "PADS",
+  "condition": "Atypical Parkinsonism",
+  "disease_comment": "PSP a.e. type Richardson, Restless-Legs-Syndrome",
+  "age_at_diagnosis": 73,
+  "age": 74,
+  "height": 158,
+  "weight": 62,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

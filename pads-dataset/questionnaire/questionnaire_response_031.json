@@ -1,0 +1,159 @@
+{
+  "resource_type": "questionnaire_response",
+  "subject_id": "031",
+  "study_id": "PADS",
+  "id": "Non-motor Symptoms",
+  "questionnaire_name": "NMS",
+  "item": [
+    {
+      "link_id": "01",
+      "text": "Dribbling of saliva during the daytime",
+      "answer": true
+    },
+    {
+      "link_id": "02",
+      "text": "Loss or change in your ability to taste or smell",
+      "answer": true
+    },
+    {
+      "link_id": "03",
+      "text": "Difficulty swallowing food or drink or problems with choking",
+      "answer": true
+    },
+    {
+      "link_id": "04",
+      "text": "Vomiting or feelings of sickness (nausea)",
+      "answer": true
+    },
+    {
+      "link_id": "05",
+      "text": "Constipation (less than 3 bowel movements a week) or having to strain to pass a stool (faeces)",
+      "answer": true
+    },
+    {
+      "link_id": "06",
+      "text": "Bowel (fecal) incontinence",
+      "answer": true
+    },
+    {
+      "link_id": "07",
+      "text": "Feeling that your bowel emptying is incomplete after having been to the toilet",
+      "answer": true
+    },
+    {
+      "link_id": "08",
+      "text": "A sense of urgency to pass urine makes you rush to the toilet",
+      "answer": true
+    },
+    {
+      "link_id": "09",
+      "text": "Getting up regularly at night to pass urine",
+      "answer": true
+    },
+    {
+      "link_id": "10",
+      "text": "Unexplained pains (not due to known conditions such as arthritis)",
+      "answer": true
+    },
+    {
+      "link_id": "11",
+      "text": "Unexplained change in weight (not due to change in diet)",
+      "answer": false
+    },
+    {
+      "link_id": "12",
+      "text": "Problems remembering things that have happened recently or forgetting to do things",
+      "answer": true
+    },
+    {
+      "link_id": "13",
+      "text": "Loss of interest in what is happening around you or doing things",
+      "answer": true
+    },
+    {
+      "link_id": "14",
+      "text": "Seeing or hearing things that you know or are told are not there",
+      "answer": false
+    },
+    {
+      "link_id": "15",
+      "text": "Difficulty concentrating or staying focussed",
+      "answer": true
+    },
+    {
+      "link_id": "16",
+      "text": "Feeling sad, low or blue",
+      "answer": true
+    },
+    {
+      "link_id": "17",
+      "text": "Feeling anxious, frightened or panicky",
+      "answer": false
+    },
+    {
+      "link_id": "18",
+      "text": "Feeling less interested in sex or more interested in sex",
+      "answer": true
+    },
+    {
+      "link_id": "19",
+      "text": "Finding it difficult to have sex when you try",
+      "answer": true
+    },
+    {
+      "link_id": "20",
+      "text": "Feeling light headed, dizzy or weak standing from sitting or lying",
+      "answer": true
+    },
+    {
+      "link_id": "21",
+      "text": "Falling",
+      "answer": true
+    },
+    {
+      "link_id": "22",
+      "text": "Finding it difficult to stay awake during activities such as working, driving or eating",
+      "answer": true
+    },
+    {
+      "link_id": "23",
+      "text": "Difficulty getting to sleep at night or staying asleep at night",
+      "answer": true
+    },
+    {
+      "link_id": "24",
+      "text": "Intense, vivid dreams or frightening dreams",
+      "answer": true
+    },
+    {
+      "link_id": "25",
+      "text": "Talking or moving about in your sleep as if you are acting out a dream",
+      "answer": true
+    },
+    {
+      "link_id": "26",
+      "text": "Unpleasant sensations in your legs at night or while resting, and a feeling that you need to move",
+      "answer": true
+    },
+    {
+      "link_id": "27",
+      "text": "Swelling of your legs",
+      "answer": true
+    },
+    {
+      "link_id": "28",
+      "text": "Excessive sweating",
+      "answer": false
+    },
+    {
+      "link_id": "29",
+      "text": "Double vision",
+      "answer": false
+    },
+    {
+      "link_id": "30",
+      "text": "Believing things are happening to you that other people say are not true",
+      "answer": false
+    }
+  ]
+}

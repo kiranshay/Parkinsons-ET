@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "351",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "IPS tremordominant type. Symptomatic Restless-Legs-Syndrome",
+  "age_at_diagnosis": 80,
+  "age": 85,
+  "height": 177,
+  "weight": 75,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

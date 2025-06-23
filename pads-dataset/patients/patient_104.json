@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "104",
+  "study_id": "PADS",
+  "condition": "Essential Tremor",
+  "disease_comment": "Essential Tremor",
+  "age_at_diagnosis": 59,
+  "age": 63,
+  "height": 173,
+  "weight": 63,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

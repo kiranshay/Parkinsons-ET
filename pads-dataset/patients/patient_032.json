@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "032",
+  "study_id": "PADS",
+  "condition": "Atypical Parkinsonism",
+  "disease_comment": "IPS akinetic-rigid type, DD, PSP of Parkinson type",
+  "age_at_diagnosis": 69,
+  "age": 77,
+  "height": 176,
+  "weight": 79,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

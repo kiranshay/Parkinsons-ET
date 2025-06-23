@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "439",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Spinocerebellar syndrome with cerebral atrophy. Intention tremor both-sided asymmetric",
+  "age_at_diagnosis": 57,
+  "age": 69,
+  "height": 179,
+  "weight": 60,
+  "gender": "male",
+  "handedness": "left",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Unknown"
+}

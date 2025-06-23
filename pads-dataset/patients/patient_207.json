@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "207",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Essential Tremor, DD functional Tremor",
+  "age_at_diagnosis": 45,
+  "age": 78,
+  "height": 173,
+  "weight": 94,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "Improvement"
+}

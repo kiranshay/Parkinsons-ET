@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "011",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Dystonia-Parkinson-Syndrome, possibly genetically",
+  "age_at_diagnosis": 45,
+  "age": 51,
+  "height": 183,
+  "weight": 77,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": false,
+  "appearance_in_first_grade_kinship": null,
+  "effect_of_alcohol_on_tremor": "No effect"
+}

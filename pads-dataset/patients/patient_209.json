@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "209",
+  "study_id": "PADS",
+  "condition": "Other Movement Disorders",
+  "disease_comment": "Leukoencephalopathy of unknown etiology",
+  "age_at_diagnosis": 47,
+  "age": 48,
+  "height": 161,
+  "weight": 68,
+  "gender": "female",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "Improvement"
+}

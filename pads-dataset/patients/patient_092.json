@@ -1,0 +1,16 @@
+{
+  "resource_type": "patient",
+  "id": "092",
+  "study_id": "PADS",
+  "condition": "Parkinson's",
+  "disease_comment": "IPS mixed type",
+  "age_at_diagnosis": 48,
+  "age": 55,
+  "height": 192,
+  "weight": 85,
+  "gender": "male",
+  "handedness": "right",
+  "appearance_in_kinship": true,
+  "appearance_in_first_grade_kinship": true,
+  "effect_of_alcohol_on_tremor": "Worsening"
+}
