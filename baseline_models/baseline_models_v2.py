@@ -23,10 +23,17 @@ try:
     import tensorflow as tf
     # Try different import patterns for better compatibility
     try:
-        from tensorflow.keras.models import Sequential
-        from tensorflow.keras.layers import Dense, LSTM, Conv1D, MaxPooling1D, Flatten, Dropout, GRU
-        from tensorflow.keras.optimizers import Adam
-        from tensorflow.keras.callbacks import EarlyStopping
+        from tensorflow import keras
+        Sequential = keras.models.Sequential
+        Dense = keras.layers.Dense
+        LSTM = keras.layers.LSTM
+        Conv1D = keras.layers.Conv1D
+        MaxPooling1D = keras.layers.MaxPooling1D
+        Flatten = keras.layers.Flatten
+        Dropout = keras.layers.Dropout
+        GRU = keras.layers.GRU
+        Adam = keras.optimizers.Adam
+        EarlyStopping = keras.callbacks.EarlyStopping
         TENSORFLOW_AVAILABLE = True
     except ImportError:
         try:

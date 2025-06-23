@@ -39,13 +39,13 @@ except ImportError:
 from sklearn.neural_network import MLPClassifier
 try:
     import tensorflow as tf
-    from tensorflow.keras.models import Sequential, Model
-    from tensorflow.keras.layers import (Dense, LSTM, Conv1D, MaxPooling1D, Flatten, 
+    from keras.models import Sequential, Model
+    from keras.layers import (Dense, LSTM, Conv1D, MaxPooling1D, Flatten, 
                                        Dropout, GRU, BatchNormalization,
                                        Input, GlobalMaxPooling1D)
-    from tensorflow.keras.optimizers import Adam
-    from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau
-    from tensorflow.keras.regularizers import l1_l2
+    from keras.optimizers import Adam
+    from keras.callbacks import EarlyStopping, ReduceLROnPlateau
+    from keras.regularizers import l1_l2
     TENSORFLOW_AVAILABLE = True
 except ImportError:
     print("TensorFlow not available. Deep learning models will be skipped.")

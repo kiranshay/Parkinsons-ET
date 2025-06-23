@@ -21,10 +21,10 @@ from xgboost import XGBClassifier
 from sklearn.neural_network import MLPClassifier
 try:
     import tensorflow as tf
-    from tensorflow.keras.models import Sequential
-    from tensorflow.keras.layers import Dense, LSTM, Conv1D, MaxPooling1D, Flatten, Dropout, GRU
-    from tensorflow.keras.optimizers import Adam
-    from tensorflow.keras.callbacks import EarlyStopping
+    from keras.models import Sequential
+    from keras.layers import Dense, LSTM, Conv1D, MaxPooling1D, Flatten, Dropout, GRU
+    from keras.optimizers import Adam
+    from keras.callbacks import EarlyStopping
     TENSORFLOW_AVAILABLE = True
 except ImportError:
     print("TensorFlow not available. Neural network models will be skipped.")
