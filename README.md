@@ -151,8 +151,10 @@ def create_lstm_model(self, input_shape, num_classes):
 ```
 Parkinsons-ET/
 └── baseline_models/            # scripts folder
-    ├── baseline_models.py      # scripts (updated as need be)
+    ├── baseline_models.py      
     ├── baseline_models_v2.py
+          ...                   # more baseline and/or testing scripts
+    ├── enhanced_models.py      # models with much higher accuracies
 ├── README.md                   # This file
 ├── requirements.txt            # Dependencies
 └── pads-dataset/              # Dataset directory
